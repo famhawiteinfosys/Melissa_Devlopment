@@ -16,7 +16,7 @@
 
 package sql
 
-const DefaultWelcome = "Hey {first}, how are you?"
+const DefaultWelcome = "Hey {first}, i tha maw?"
 
 type Welcome struct {
 	ChatId        string `gorm:"primary_key"`
